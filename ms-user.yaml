@@ -35,7 +35,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3307/otablodb
     username: otablo_user
-    password: Vg3z!9wLp#Qb7xZt@M2e
+    password: "{cipher}7c506289eb58418943d45bb0e7c5ffdedf56feeb6efda5489ba652e21721309d6fe4073ed21e5dc1b92b33878963e26e"
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
