@@ -41,7 +41,3 @@ eureka:
 #    hibernate:
 #      ddl-auto: create-drop
 #    show-sql: true
-
-logging:
-  level:
-    root: DEBUG
